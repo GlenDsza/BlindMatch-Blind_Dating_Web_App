@@ -5,6 +5,7 @@
 <p style='text-align: justify;'>BlindMatch Web Application aims to create a safe and inclusive platform where individuals can find meaningful connections based on shared values and interests, rather than just physical appearance or initial impressions. </p>
 <p style='text-align: justify;'>The web application will also include safety features, such as profile verification and reporting systems, to ensure the safety of all users.</p>
 
+
 ## Problem Definition✨
 
 - <p style='text-align: justify;'>Traditional dating methods often rely on superficial judgments based on physical appearance or initial impressions, which can be misleading and unfair. </p>
@@ -26,7 +27,7 @@ BlindMatch Web application consists of following modules/features:-
 <table>
     <tr>
         <td><img src="Images/SS/1.png" width="100%"></td>
-        <td><img src="Images/SS/2.png"></td>
+        <td><img src="Images/SS/8.png"></td>
     </tr>
     <tr>
         <td><img src="Images/SS/3.png"></td>
@@ -38,7 +39,6 @@ BlindMatch Web application consists of following modules/features:-
     </tr>
     <tr>
         <td><img src="Images/SS/6.png"></td>
-         <td><img src="Images/SS/8.png"></td>
     </tr>
 </table>
 
